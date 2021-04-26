@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects that help people reach their maximum potential
 - 📫 How to reach me 
   - rodrigodebem1 at outlook dot com
-  - 
 
 <!---
 rodrigo-jacomozzi/rodrigo-jacomozzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
