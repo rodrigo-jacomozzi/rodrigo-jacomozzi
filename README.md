@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigo-jacomozzi -- call me rodrigo (:
 - 👀 I’m interested in Python, Django & Web Development
-- 🌱 I’m currently learning React and Django REST Framework
+- 🌱 I’m currently studying Python and Django REST Framework
 - 💞️ I’m looking to collaborate on projects that help people reach their maximum potential
 
 <!---
